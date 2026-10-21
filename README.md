@@ -1,6 +1,6 @@
 # Elevator System
 
-A multi-elevator control system built with **Java and Spring Boot**. It dispatches hall calls to the best elevator using pluggable strategies, and moves each car with a **LOOK/SCAN** scheduling algorithm, like a real elevator bank.
+A multi-elevator control system built with **Java and Spring Boot**.. It dispatches hall calls to the best elevator using pluggable strategies, and moves each car with a **LOOK/SCAN** scheduling algorithm, like a real elevator bank.
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1-brightgreen)
